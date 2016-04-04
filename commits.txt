@@ -1,0 +1,29 @@
+commit 1dd1385e426cda481df593c65c8e3336da233ae3
+Author: Carlos Alfredo Osorio Perez <hacybeyker@hotmail.com>
+Date:   Mon Apr 4 15:22:26 2016 -0500
+
+    se agrego el archivo producto.html
+
+commit a5bfb687477b86e29af99dbb538a79738f254bcf
+Author: hacybeyker@gmail.com <hacybeyker@gmail.com>
+Date:   Mon Apr 4 20:19:56 2016 +0000
+
+    se agrego el archivo servicio.html
+
+commit db28ae678312011146cbab25d723057b465176ef
+Author: Carlos Alfredo Osorio Perez <hacybeyker@hotmail.com>
+Date:   Mon Apr 4 14:54:38 2016 -0500
+
+    se agrego el archivo contacto.html
+
+commit 74fc026c338e44daf55ebbc17d3b69ec14a72f47
+Author: Carlos Alfredo Osorio Perez <hacybeyker@hotmail.com>
+Date:   Mon Apr 4 14:53:04 2016 -0500
+
+    se agrego el archivo index.html
+
+commit 239ce0e8d662f6b5053b5a1bb73849b9baf97a8c
+Author: Carlos Alfredo Osorio Perez <hacybeyker@hotmail.com>
+Date:   Mon Apr 4 14:44:58 2016 -0500
+
+    Proyecto inicial con el archivo README.md
